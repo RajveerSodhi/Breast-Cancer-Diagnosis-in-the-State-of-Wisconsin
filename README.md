@@ -1,6 +1,4 @@
-# Group YY - {Short snappy Title of your project}
-
-- Your title can change over time.
+# Group 24 - {Short snappy Title of your project}
 
 ## Milestones
 
@@ -17,7 +15,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 ## Team Members
 
 - Mithish Ravisankar Geetha: one sentence about you!
-- Rajveer Sodhi: one sentence about you!
+- Rajveer Sodhi: I love programming, movies, and astronomy!
 - Yash Kumar: one sentence about you!
 
 ## Images
