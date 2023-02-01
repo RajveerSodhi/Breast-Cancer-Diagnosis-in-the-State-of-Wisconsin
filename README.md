@@ -14,7 +14,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Team Members
 
-- Mithish Ravisankar Geetha: one sentence about you!
+- Mithish Ravisankar Geetha: I love aviation, mathematics and programming!
 - Rajveer Sodhi: I love programming, movies, and astronomy!
 - Yash Kumar: one sentence about you!
 
