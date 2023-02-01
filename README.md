@@ -16,7 +16,7 @@ The dataset was created by analyzing several papers and diagnosis of breast canc
 
 - Mithish Ravisankar Geetha: I love aviation, mathematics and programming!
 - Rajveer Sodhi: I love programming, movies, and astronomy!
-- Yash Kumar: one sentence about you!
+- Yash Kumar: A Data Science major with a passion for machine learning, emerging technology, and cricket.
 
 ## Images
 
