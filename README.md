@@ -6,7 +6,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-We are interested in analyzing a breast cancer diagnosis dataset to better understand the characteristics of cancerous and non-cancerous cells in a breast mass and how these attributes can be used to accurately predict a patient's diagnosis. Analyzing this dataset will not only increase our understanding of the disease but also help find patterns associated with tumor growth and lead to improved diagnostic and treatment methods. This analysis may also highlight disparities or inequalities in access to healthcare, which can then be targeted for problem solving initiatives. Finally, we believe that analyzing this dataset is a valuable opportunity to make a meaningful impact in the fight against breast cancer.
+Our goal with this analytics project is to build a predictive model that can accurately diagnose a breast tumor as either malignant or benign based on the provided features. The importance of this type of model lies in the early detection of breast cancer, which can significantly improve the chances of successful treatment via early intervention.
+We are interested in this dataset because breast cancer is a globally prevalent and devastating disease, and any efforts to improve the accuracy of its early detection are significant. We wish to explore the relationship between different features of the cancer and its diagnosis to determine the most important predictors.
+We are curious to see how well the model performs compared to human diagnosis accuracy, and whether it would be feasible to use such a  model in a clinical setting.
+It is possible to build a user dashboard with this dataset that would allow medical professionals to input patient information and receive a prediction of the likelihood of the breast tumor being malignant or benign.
+
 
 ## Describe your dataset in about 150-200 words
 
