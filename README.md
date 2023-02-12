@@ -15,7 +15,7 @@ The dataset was created by analyzing several papers and diagnosis of breast canc
 ## Team Members
 
 - Mithish Ravisankar Geetha: I am a second year CS major passionate in aviation, artificial intelligence and mathematics.
-- Rajveer Sodhi: I love programming, movies, and astronomy!
+- Rajveer Sodhi: I am a second year COSC major, DATA minor (also hoping to land a second minor in PSYO!). I love programming, movies, and astronomy!
 - Yash Kumar: A Data Science major with a passion for machine learning, emerging technology, and cricket.
 
 ## Images
