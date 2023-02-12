@@ -10,7 +10,8 @@ We are interested in analyzing a breast cancer diagnosis dataset to better under
 
 ## Describe your dataset in about 150-200 words
 
-The dataset was created by analyzing several papers and diagnosis of breast cancer patients in the state of Wisconsin. The dataset has a class distribution of 357 benign and 212 malignant instances of a tumor and 30 numerical features generated from digital images of FNA of a breast lump, and a diagnosis label of either benign or malignant.  Each row discusses the tumor in detail, by looking into the radius of the lump, texture and perimeter for example. We found the dataset on kaggle.com, which is a reputed source to find quality datasets. This data was originally found in the UCI Machine Learning repository and was created by doctors working at the University of Wisconsin.
+The Breast Cancer Wisconsin (Diagnostic) Data Set consists of measurements of breast cancer cases that Dr. William H. Wolberg, a medical professional at the University of Wisconsin Hospitals, Madison gathered to study trends between benign and malignant cancers. Dr. Wolberg was accompanied in this endeavor by W. Nick Street and Olvi L. Mangasarian from the Computer Sciences department of the university. The data was originally collected in 1992, with the diagnostic version of the dataset being compiled in 1995. To record this data, a Fine Needle Aspirate (FNA) of a breast mass was taken and features were calculated from that image. The data set has a diagnosis label of either benign (B) or malignant (M) for 569 cases in 30 data columns produced from digital images of an FNA of a breast lump. The hospital treated the patients who underwent FNAs, and the photographs of the vast majority were digitized. To assess the severity of the mass, the features of the masses were computed. Through this data set, the general public will benefit from understanding what various cancer forms might resemble.
+
 
 ## Team Members
 
