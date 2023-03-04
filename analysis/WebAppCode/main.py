@@ -1,4 +1,4 @@
-# https://kyash03-breastcancerwebapp-webapp-17376n.streamlit.app
+# https://kyash03-breastcancerwebapp-main-ckdp68.streamlit.app
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -141,7 +141,8 @@ st.title('Breast Cancer Prediction')
 
 st.write('Input feature values in the sidebar.')
 
-svc_pipeline = joblib.load('final_model.joblib')
+svc_pipeline = joblib.load(
+    'final_model.joblib')
 
 if (sum(data.values()) != 0):
     st.write('Prediction:')
