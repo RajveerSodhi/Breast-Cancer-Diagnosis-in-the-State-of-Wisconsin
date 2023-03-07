@@ -1,5 +1,9 @@
 # Group 24 - Breast Cancer Diagnosis in the State of Wisconsin
 
+## Breast Cancer Prediction Web App
+
+To access the app, click the following link: [Breast Cancer Prediction Web App](https://kyash03-breastcancerwebapp-main-ckdp68.streamlit.app). You can use this web app to input a patient's details and receive a prediction on whether the patient has breast cancer.
+
 ## Milestones
 
 Details for Milestone are available on Canvas.
