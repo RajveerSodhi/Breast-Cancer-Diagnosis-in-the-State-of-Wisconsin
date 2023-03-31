@@ -20,8 +20,8 @@ def load_and_process(filename):
                         'smoothness_worst': 'Worst Smoothness', 'compactness_worst': 'Worst Compactness',
                         'concavity_worst': 'Worst Concavity', 'concave points_worst': 'Worst Concave Points', 
                         'symmetry_worst': 'Worst Symmetry', 'fractal_dimension_worst': 'Worst Fractal Dimension'})
-        .sort_values(by='Diagnosis', ascending=False)
-        .describe().apply(lambda s: s.apply(lambda x: format(x, 'f')))
+         .sort_values(by = 'Diagnosis', ascending = False)
+        
         
     
     )
