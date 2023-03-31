@@ -17,5 +17,3 @@ def load_and_process(filename):
     )                 
     
     return df
-
-load_and_process(filename)
