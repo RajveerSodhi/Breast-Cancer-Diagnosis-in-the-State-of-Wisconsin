@@ -21,10 +21,13 @@ def load_and_process(filename):
                         'concavity_worst': 'Worst Concavity', 'concave points_worst': 'Worst Concave Points', 
                         'symmetry_worst': 'Worst Symmetry', 'fractal_dimension_worst': 'Worst Fractal Dimension'})
          .sort_values(by = 'Diagnosis', ascending = False)
- 
-        
+
         
     
     )
+    
+    df2=(
+        df1['Diagnosis'].replace({'M': 'Malignant', 'B': 'Benign'})
+    )
 
-    return df1
+    return df2
