@@ -30,11 +30,11 @@ FILLER TEXT
 
 ## Question 1 - Yash
 
-FILLER TEXT
+**Question**: Which characteristic(s) most closely relate(s) to determining if a breast lump is non-cancerous?
 
 ## Question 2 - Yash
 
-FILLER TEXT
+**Question**: How do the distributions of features vary across different sizes of tumours for malignant cases? More specifically, how does the importance of features vary with the tumour size for malignant diagnoses? Lastly, can we determine a range of values for which there is a high probability of a malignant diagnosis?
 
 ## Conclusion - Yash
 
