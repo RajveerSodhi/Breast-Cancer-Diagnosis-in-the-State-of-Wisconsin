@@ -67,3 +67,7 @@ FILLER TEXT
 ## Overall Conclusion
 
 FILLER TEXT
+
+## Links to Notebooks
+
+[Yash's Jupyter Notebook](https://github.com/ubco-W2022T2-data301/project-group-group24/blob/main/analysis/analysis3.ipynb)
