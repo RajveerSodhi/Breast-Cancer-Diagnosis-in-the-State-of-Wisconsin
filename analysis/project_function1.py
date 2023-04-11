@@ -21,10 +21,10 @@ def load_and_process(filename):
                         'concavity_worst': 'Worst Concavity', 'concave points_worst': 'Worst Concave Points', 
                         'symmetry_worst': 'Worst Symmetry', 'fractal_dimension_worst': 'Worst Fractal Dimension'})
          .sort_values(by = 'Diagnosis', ascending = False)
- 
-        
-        
-    
+         #['Diagnosis'].replace({'M':'Malignant','B':'Benign'}, inplace=True)
+         #.assign(Diagnosis = lambda x: x['Diagnosis'].replace(['M', 'B'], ['Malignant', 'Benign']))
+  
     )
-
-    return df1
+    df2=df1
+    df2["Diagnosis"] = df1["Diagnosis"].replace(["M", "B"], ["Malignant", "Benign"])
+    return df2
