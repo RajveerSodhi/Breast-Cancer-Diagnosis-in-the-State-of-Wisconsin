@@ -4,7 +4,7 @@
 
 A common and deadly disease, breast cancer affects countless people worldwide. Early detection of breast cancer is essential for successful treatment and a better prognosis. Our project examines and demonstrates the relationships between particular breast tumour characteristics and whether they are classified as malignant or benign. We hope to understand better the factors affecting benign or malignant tumour growth by identifying the most important ones. We're passionate about this topic because we want to improve early detection and look into how our findings might affect clinical decision-making. Ultimately, we hope patients, healthcare workers, and the medical community will significantly benefit from our efforts better to understand the connections between tumour traits and diagnosis.
 
-## Exploratory Data Analysis - Yash Kumar
+## Exploratory Data Analysis - Yash
 
 1. Our dataset contained many more benign cases than malignant ones, as illustrated by the count plot below.
    ![Count Image](images/yk-count.png)
@@ -20,8 +20,50 @@ A common and deadly disease, breast cancer affects countless people worldwide. E
 6. The regression plot below indicated that, in contrast to the 'mean' and 'worst' values, the 'se' values generally cluster around a common value, with just a handful of outliers straying from this trend. Additionally, the 'concave points' and 'concavity' variables demonstrate a high correlation, regardless of the specific statistic applied. The above heatmap further corroborated this substantial relationship, solidifying the close connection between these two variables.
    ![Count Image](images/yk-reg-plot.png)
 
-## Question 1 - Yash Kumar
+## Exploratory Data Analysis - Mithish
 
-## Question 2 - Yash Kumar
+FILLER TEXT
 
-## Conclusion - Yash Kumar
+## Exploratory Data Analysis - Rajveer
+
+FILLER TEXT
+
+## Question 1 - Yash
+
+FILLER TEXT
+
+## Question 2 - Yash
+
+FILLER TEXT
+
+## Conclusion - Yash
+
+FILLER TEXT
+
+## Question 1 - Mithish
+
+FILLER TEXT
+
+## Question 2 - Mithish
+
+FILLER TEXT
+
+## Conclusion - Mithish
+
+FILLER TEXT
+
+## Question 1 - Rajveer
+
+FILLER TEXT
+
+## Question 2 - Rajveer
+
+FILLER TEXT
+
+## Conclusion - Rajveer
+
+FILLER TEXT
+
+## Overall Conclusion
+
+FILLER TEXT
