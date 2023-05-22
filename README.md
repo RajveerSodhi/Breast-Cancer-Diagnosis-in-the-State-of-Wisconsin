@@ -1,4 +1,4 @@
-# Group 24 - Breast Cancer Diagnosis in the State of Wisconsin
+# Breast Cancer Diagnosis in the State of Wisconsin
 
 ## Breast Cancer Prediction Web App
 
@@ -21,8 +21,8 @@ The Breast Cancer Wisconsin (Diagnostic) Data Set consists of measurements of br
 
 ## Team Members
 
-- Mithish Ravisankar Geetha: I am a second year CS major passionate in aviation, artificial intelligence and mathematics.
-- Rajveer Sodhi: I am a second year COSC major, DATA minor (also hoping to land a second minor in PSYO!). I love programming, movies, and astronomy!
+- Mithish Ravisankar Geetha: I am a third year CS major passionate in aviation, artificial intelligence and mathematics.
+- Rajveer Sodhi: I am a third year COSC major, DATA minor. I love programming, movies, and astronomy!
 - Yash Kumar: A Data Science major passionate about machine learning, emerging technology, and cricket.
 
 ## Images
